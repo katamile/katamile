@@ -23,8 +23,7 @@
 - 🔄 **SSIS / SSAS / SSRS** – procesos ETL e informes analíticos  
 
 ### **DevOps & Colaboración**
-- ☁ **Azure DevOps (CI/CD)** – integración y despliegue continuo  
-- 🐙 **Git** (GitHub, Azure Repos) – control de versiones  
+- 🐙 **Git** – control de versiones  
 - 📋 **Scrum / Agile** – metodologías ágiles para trabajo en equipo  
 
 ---
